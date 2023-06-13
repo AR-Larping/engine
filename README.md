@@ -30,9 +30,9 @@ The repo is private because we don't want players spoiling the fun by viewing th
 
 2. Go into the slack workspace.  You can either use the slack web client or you can install their software on your computer or phone.
 
-3. Send me your Github username (I'm `@matt`) and I'll give you access to the private repo.
+3. Send me your Github username (I'm `@matt`) and I'll give you write access to botth this and the private repo.  I'll also add you to the `AR-larping` organization so that you can create other repo's here if you want.
 
-4. Once I've done so, try the above link again
+4. Once I've done so, try the above link again, you should the be able to explore the other repo's.
 
 ## TODO
 
